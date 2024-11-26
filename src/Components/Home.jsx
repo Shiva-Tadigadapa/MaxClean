@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./Navbar";
+import Navbar from "./NavBar";
 import Banner from "../assets/Banner.png";
 import one from "../assets/home1.png";
 import two from "../assets/home2.png";
