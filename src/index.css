@@ -1,3 +1,17 @@
 @tailwind base;
   @tailwind components;
   @tailwind utilities;
+
+
+
+@font-face{
+  font-family: 'insta';
+  src: url('/src/assets/inst.ttf') format('truetype');
+}
+
+.insta{
+  font-family: 'insta';
+}
+body{
+  font-family: 'insta';
+}
